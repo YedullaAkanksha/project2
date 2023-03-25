@@ -155,7 +155,7 @@ public class AdminUtils {
 				String Source = resultSet.getString("Source");
 				String Destination = resultSet.getString("Destination");
 				int price = resultSet.getInt("Price");
-				flight = new Flights(Flightname, Airlinename, Source, Destination, price);
+				flight = new Flights(id1,Flightname, Airlinename, Source, Destination, price);
 				flights.add(flight);
 				
 			}

@@ -7,7 +7,7 @@
 <meta charset="ISO-8859-1">
 <title>Customer Login</title>
 </head>
-<body>
+<body bgcolor="#FFE87C">
 <h1>Customer Login Page</h1>
 	
 <div style="border:2px solid black;width:25%;border-radius:20px;padding:20px">

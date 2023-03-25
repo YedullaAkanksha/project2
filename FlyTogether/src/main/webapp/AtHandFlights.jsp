@@ -8,11 +8,14 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
-<body>
+<style>table, th, td{
+border-style:"dotted";}
+</style>
+<body bgcolor="#FFE87C">
 <h1>At Hand flights are:</h1>
 <table border="1"  style="border:1px solid black;margin-left:auto;margin-right:auto;">
-<tr>
+
+<tr >
 
 <th>Id</th>
 <th>FlightName</th>

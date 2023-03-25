@@ -11,7 +11,7 @@ h1 {
 	text-align: center;
 }
 </style>
-<body>
+<body bgcolor="#">
 	<h1>Welcome to the FlyTogether ticket booking portal</h1>
 	
 		<div style="border:5px solid black;width:25%;border-radius:20px;padding:20px">

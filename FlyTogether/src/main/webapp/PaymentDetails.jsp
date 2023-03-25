@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Confirm Booking</title>
 </head>
-<body>
+<body bgcolor="#FFE87C">
 	<h1>Welcome to the booking portal</h1>
 	<h2>To confirm the flight tickets</h2>
 	<h3>Proceed for payment</h3>

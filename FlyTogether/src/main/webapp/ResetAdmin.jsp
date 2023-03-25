@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Reset Admin</title>
 </head>
-<body>
+<body bgcolor="#FFE87C">
 <h1>Reset Admin Password</h1>
 <div style="border:3px solid black;width:25%;border-radius:20px;padding:20px">
 <form action="ResetAdmin" method="Get">

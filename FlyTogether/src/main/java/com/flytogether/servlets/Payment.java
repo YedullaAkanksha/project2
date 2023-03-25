@@ -23,7 +23,7 @@ public class Payment extends HttpServlet {
 	
 		PrintWriter out = response.getWriter();
 	
-		out.println("<p>payment successfull"+"</p>");
+		out.println("<p><b><h1>payment successfully..</h1></b></p>");
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

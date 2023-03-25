@@ -6,9 +6,10 @@
 <meta charset="ISO-8859-1">
 <title>login</title>
 </head>
-<body>
+<body bgcolor="#FFF380">
 	<h1>Admin Login Page</h1>
-	<div style="border:3px solid black;width:25%;border-radius:20px;padding:20px">
+
+	<div style="border:3px solid black;width:25%;border-radius:20px;padding:20px;">
 <form action="AdminLogin" method="get">
 	<label for=username>Username :-</label> <input type="text" name=username /><br><br>
 	<label for=pass>Password :-</label> <input type="password" name=password /><br><br>
